@@ -1,0 +1,60 @@
+.main-box{
+	@include padding(5px 3% null 3%);
+	@include clearfix;
+	width: auto;
+}
+
+.grid-a{
+ 	display:block;
+ 	width:50%;
+ 	@include clearfix;
+ 	float:left;
+ 	border-left: .1rem solid #CCC;
+	border-right: .1rem solid #ccc;
+}
+
+.grid-b {
+	display:block;
+ 	width:50%;
+ 	@include clearfix;
+ 	float:right;
+ 	border-left: .1rem solid #CCC;
+	border-right: .1rem solid #ccc;
+}
+
+
+.grid-b1{
+	display:block;
+	width:50%;
+	float:left;
+	border-left: .1rem solid #CCC;
+	border-right: .1rem solid #ccc;
+
+}
+
+.grid-b2{
+	display:block;
+	width:50%;
+	float:right;
+	border-left: .1rem solid #CCC;
+	border-right: .1rem solid #ccc;
+}
+
+.grid-b3{
+	display:block;
+	border-left: .1rem solid #CCC;
+	border-right: .1rem solid #ccc;
+
+}
+.grid-b4{
+	display:block;
+	border-left: .1rem solid #CCC;
+	border-right: .1rem solid #ccc;
+
+}
+img{
+	width:100%;
+}
+
+// border-bottom: .1rem solid #CCC;
+// border-top: .1rem solid #CCC;

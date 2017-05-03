@@ -1,0 +1,1053 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"img"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"mar",
+				"marcas"
+			],
+			[
+				"margin",
+				"margin:5px	(_display.scss)"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"opa",
+				"opacity:1	(index.html)"
+			],
+			[
+				"dis",
+				"display	(_base.scss)"
+			],
+			[
+				"cont",
+				"content	(index.html)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"me",
+				"menu	(index.html)"
+			],
+			[
+				"blo",
+				"block	(_nav.scss)"
+			],
+			[
+				"hs",
+				"hsContent	(index.html)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"border",
+				"border:none"
+			],
+			[
+				"bor",
+				"border	(_layout.scss)"
+			],
+			[
+				"pr",
+				"progressbar"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ab",
+				"absolute	(_logo_ani.scss)"
+			],
+			[
+				"pro",
+				"progress	(index.html)"
+			],
+			[
+				"image",
+				"imagesLoaded"
+			],
+			[
+				"ima",
+				"images	(_content.scss)"
+			],
+			[
+				"cen",
+				"center	(works.js)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div	(index.html)"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"bou",
+				"bounceIn"
+			],
+			[
+				"is",
+				"isOn	(_content.scss)"
+			],
+			[
+				"in",
+				"info	(index.html)"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bac",
+				"background	(_layout.scss)"
+			],
+			[
+				"ba",
+				"background	(_layout.scss)"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"respo",
+				"respondTo"
+			],
+			[
+				"inl",
+				"inline	(_menu.scss)"
+			],
+			[
+				"color",
+				"color	(_layout.scss)"
+			],
+			[
+				"wor",
+				"works	(index.html)"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"smoo",
+				"smooth"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"Me",
+				"Mesh"
+			],
+			[
+				"win",
+				"windowWidth"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bro",
+				"brownDark"
+			],
+			[
+				"greyDa",
+				"greyDark"
+			],
+			[
+				"cre",
+				"createCielo"
+			],
+			[
+				"crea",
+				"createCielo"
+			],
+			[
+				"ini",
+				"init"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"fix",
+				"fix"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"U",
+				"update"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fin",
+				"find	(work.html)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"lin",
+				"linear"
+			],
+			[
+				"anima",
+				"animationOptions"
+			],
+			[
+				"por",
+				"portfolioContainer	(work.html)"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"colo",
+				"color:#fff"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"text",
+				"texto"
+			],
+			[
+				"rect",
+				"rectMode"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"sty",
+				"style	(style.css)"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"el",
+				"ellipse"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"create",
+				"createCanvas"
+			],
+			[
+				"info",
+				"infobox	(index.html)"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fil",
+				"filtro"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"poi",
+				"pointer"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"widt",
+				"width	(index.html)"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"style",
+				"styles	(index.html)"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"poit",
+				"position"
+			],
+			[
+				"wido",
+				"windowWidth"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"boto",
+				"bottom"
+			],
+			[
+				"mouse",
+				"mousePressed"
+			],
+			[
+				"num",
+				"numPoints"
+			],
+			[
+				"Win",
+				"WindiwHeight"
+			],
+			[
+				"W",
+				"WindowWidth"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"u",
+				"underline	(bootstrap.min.css)"
+			],
+			[
+				"thid",
+				"third-party"
+			],
+			[
+				"mai",
+				"mainBower"
+			],
+			[
+				"main",
+				"mainBowerFiles"
+			],
+			[
+				"m",
+				"minifyCss"
+			],
+			[
+				"br",
+				"browser-sync"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dist/index.html",
+			"settings":
+			{
+				"buffer_size": 4059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 3043,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_marcas.scss",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_display.scss",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_home.scss",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_chekoutcushki.scss",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jacos/Desktop/shader.html",
+		"/Users/jacos/Sites/yaEsta.com/sass/_base.scss",
+		"/Users/jacos/Sites/yaEsta.com/dist/css/main.css",
+		"/Users/jacos/Sites/yaEsta.com/sass/_responsive.scss",
+		"/Users/jacos/Sites/yaEsta.com/gulpfile.js",
+		"/Users/jacos/Sites/yaEsta.com/sass/_home.scss",
+		"/Users/jacos/Sites/yaEsta.com/sass/_display.scss",
+		"/Users/jacos/Sites/yaEsta.com/sass/main.scss",
+		"/Users/jacos/Sites/yaEsta.com/js/main.js",
+		"/Users/jacos/Sites/yaEsta.com/node_modules/bourbon-neat/test/direction-context.scss",
+		"/Users/jacos/Desktop/yaestawoowup.html",
+		"/Users/jacos/Sites/kyba/js/main.js",
+		"/Users/jacos/Sites/kyba/app/index.html",
+		"/Users/jacos/Sites/kyba/app/css/main.css",
+		"/Users/jacos/Sites/kyba/sass/_nav.scss",
+		"/Users/jacos/Sites/kyba/gulpfile.js",
+		"/Users/jacos/Sites/kyba/sass/_responsive.scss",
+		"/Users/jacos/Sites/kyba/sass/main.scss",
+		"/Users/jacos/Documents/Processing/Creative Coding Sketches/Week 6/w6_01/sketch.properties",
+		"/Users/jacos/Desktop/console-log.md",
+		"/Users/jacos/Sites/onesimpleidea.xyz/gulpfile.js",
+		"/Volumes/GhOsT/ya esta/all/YaEstaEMM/50% Audio/50off.html",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/index.html",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_content.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_logo_ani.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_screen.scss",
+		"/Users/jacos/Downloads/mail (1).html",
+		"/Users/jacos/Downloads/mailing .html",
+		"/Volumes/GhOsT/ya esta/mail.html",
+		"/Users/jacos/Sites/onesimpleidea.xyz/js/main.js",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/js/main.min.js",
+		"/Users/jacos/Sites/onesimpleidea.xyz/js/works.js",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_nav.scss",
+		"/Volumes/GhOsT/ya esta/MailTEst.html",
+		"/Users/jacos/Downloads/MailTEst.html",
+		"/Users/jacos/Desktop/ya esta/wetransfer-ee80e1/50off.html",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_layout.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_base.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/old.md",
+		"/Users/jacos/Sites/onesimpleidea.xyz/bower.json",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/gallery.html",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/css/main.css",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/main.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_comp.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_menu.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/sass/_respon.scss",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/work.html",
+		"/Users/jacos/Library/Application Support/Sublime Text 2/Packages/User/Gulp.sublime-settings",
+		"/Users/jacos/Sites/onesimpleidea.xyz/package.json",
+		"/Users/jacos/Sites/onesimpleidea.xyz/css/style.css",
+		"/Users/jacos/Sites/onesimpleidea.xyz/home.sublime-project",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/js/works.min.js",
+		"/Users/jacos/Sites/onesimpleidea.xyz/old data.html",
+		"/Users/jacos/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jacos/Sites/onesimpleidea.xyz/js/done.js",
+		"/Users/jacos/Downloads/jquery-isotope/js/jquery.isotope.js",
+		"/Users/jacos/Sites/onesimpleidea.xyz/test.md",
+		"/Users/jacos/Sites/rutas/app/index.html",
+		"/Users/jacos/Sites/jardinPropio/app/index.html",
+		"/Users/jacos/Sites/p5js/dataVs/sketch.js",
+		"/Users/jacos/Desktop/fsociety copy.txt",
+		"/Users/jacos/fsociety copy.txt",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/app.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/client.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/client(1).js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/customscript.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/devicepx-jetpack.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/e-201606.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/genericons.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/gprofiles.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/handler.image.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/hovercard.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/jetpack.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/jquery-migrate.min.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/jquery.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/lib.core.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/lib.view.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/related-posts.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/responsive.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/services.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/sharing.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/social_widget.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/style.css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/style(1).css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/style(2).css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/style(3).css",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/tag.item.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/tag.ui.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/wp-embed.min.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/wp-emoji-release.min.js",
+		"/Users/jacos/Downloads/FISHBALL – (UN)DRESSED IN BLACK – SUICIDE GIRLS FOR FREE_files/wpgroho.js",
+		"/Users/jacos/Sites/Techkum /techkum-aws/techkum/techkum.sublime-project",
+		"/Users/jacos/Sites/p5js/superformula/sketch.js",
+		"/Users/jacos/Sites/routes/routes.sublime-project",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/css/bootstrap.min.css",
+		"/Users/jacos/Sites/onesimpleidea.xyz/app/js/main.js",
+		"/Users/jacos/Sites/onesimpleidea.xyz/index.html",
+		"/Users/jacos/Sites/onesimpleidea.xyz/.gitignore",
+		"/Users/jacos/Sites/onesimpleidea.xyz/.bowerrc",
+		"/Users/jacos/Sites/onesimpleidea.xyz/css/main.css",
+		"/Users/jacos/Sites/onesimpleidea.xyz/gulp.js",
+		"/Users/jacos/Sites/portafolio/assets/css/style.css",
+		"/Users/jacos/Sites/portafolio/index.html",
+		"/Users/jacos/Sites/routes/js/cojitambo.js",
+		"/Users/jacos/Sites/routes/app/index.html",
+		"/Users/jacos/Sites/routes/index.html",
+		"/Users/jacos/Sites/routes/cojitambo.html",
+		"/Users/jacos/Sites/routes/app/cojitambo.html",
+		"/Users/jacos/Sites/routes/package.json",
+		"/Users/jacos/Sites/routes/.gitignore",
+		"/Users/jacos/Sites/rutasm/index.html",
+		"/Users/jacos/Sites/enmarcar/dist/index.html",
+		"/Users/jacos/Sites/enmarcar/dist/css/style.min.css",
+		"/Users/jacos/Sites/enmarcar/index.html",
+		"/Users/jacos/Sites/enmarcar/dist/js/third-party.js",
+		"/Users/jacos/Sites/enmarcar/package.json",
+		"/Users/jacos/Sites/enmarcar/css/style.css",
+		"/Users/jacos/Sites/enmarcar/basic.md",
+		"/Users/jacos/Sites/enmarcar/.gitignore",
+		"/Users/jacos/Sites/rutas/readme.txt",
+		"/Users/jacos/Sites/XYZ/onesimpleidea.sublime-project",
+		"/Users/jacos/Sites/rutas/cojitamboV.html",
+		"/Users/jacos/Sites/rutas/Avolcanes.html",
+		"/Users/jacos/Sites/rutas/index.html",
+		"/Users/jacos/Sites/rutas/Rutas.html",
+		"/Users/jacos/Sites/rutas/intro.html",
+		"/Users/jacos/Sites/rutas/css/rutas.css",
+		"/Users/jacos/Sites/rutas/js/volcanes.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jacos/Sites/onesimpleidea",
+			"/Users/jacos/Sites/rutas/webgl/models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%);\n",
+			"foto3",
+			"portafolio",
+			"isRunning",
+			"isRunin",
+			"<center>\n			<h3>~./Recent Works</h3>\n		</center>",
+			"collective",
+			"50",
+			"obj",
+			"js",
+			")\n",
+			"kakakskdksdsk",
+			"t",
+			"topmenu",
+			"6",
+			"*/\n",
+			"620px",
+			"please fill out this fild",
+			"form",
+			"please 	",
+			"please fill up",
+			"7",
+			"(../",
+			"40px",
+			"down",
+			";\n",
+			"200px",
+			"modal",
+			"          \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dist/index.html",
+					"settings":
+					{
+						"buffer_size": 4059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								820,
+								820
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 3043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							],
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "sass/_marcas.scss",
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/_display.scss",
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_home.scss",
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 118.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/_chekoutcushki.scss",
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.614845717884,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jacos 1/Desktop/onesimpleidea/DevelopWEb/final /ONE.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}

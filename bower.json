@@ -1,0 +1,21 @@
+{
+  "name": "yaEsta.com",
+  "authors": [
+    "cyrstem <cyrstem@gmail.com>"
+  ],
+  "description": "homesite test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "onesimpleidea.xyz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}

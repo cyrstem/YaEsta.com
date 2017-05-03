@@ -1,0 +1,15 @@
+.marcas-box{
+	background-color:white;
+	overflow-x:hidden; 
+	// @include outer-container(12);
+		@include padding(5px 3% null 3%);
+	@include clearfix;
+}
+
+.item-box{
+	//@include span-columns(3.5);
+	margin-right:1%;
+	float: left;
+	display:block; 
+	// @include padding(5px 5%  5%);
+}
