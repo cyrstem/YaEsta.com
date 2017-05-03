@@ -1,10 +1,10 @@
 # YaEsta.com
-home layouts and experitments
-# to build you need:
-Node and Bower installed
-then  install packages and lib   :
+home layouts and experitments<br />
+it requeries:<br />
+Node and Bower installed<br />
+# to install and build  you need:
 npm install
 bower install
-# to run type :
 1.- gulp build
+# to run type :
 2.- gulp
