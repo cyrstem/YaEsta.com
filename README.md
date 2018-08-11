@@ -1,5 +1,5 @@
 # YaEsta.com
-home layouts and experitments<br />
+home layouts and tests<br />
 it requeries:<br />
 Node and Bower installed<br />
 # to install and build  you need:
